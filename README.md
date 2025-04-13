@@ -1,6 +1,6 @@
 # 🌟 Yandisa Gaju — Portfolio Website
 
-A professional portfolio website showcasing my transition from **Engineering Technician** to **Software Developer**. This site was built as part of the HyperionDev Software Engineering Bootcamp to highlight my skills, experience, and upcoming projects.
+This is my personal portfolio and CV website, built to showcase my journey from Engineering Technician to aspiring Software Developer. It highlights my skills, background, and real-world projects developed during and beyond the HyperionDev Software Engineering Bootcamp.
 
 ---
 
@@ -8,8 +8,7 @@ A professional portfolio website showcasing my transition from **Engineering Tec
 
 ```
 portfolio-website/
-├── images/
-│   └── Yandisa.jpg
+├── images/ # Profile photo & project screenshots
 ├── styles.css
 └── index.html
 ```
@@ -29,19 +28,18 @@ portfolio-website/
 
 ## 🛠 Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **Bootstrap 5.3.0**
-- **Font Awesome 6.4.0**
-- **Google Fonts** (Space Mono, Inter)
+- **Frontend:** HTML5, CSS3, Bootstrap 5.3.0
+- **Icons & Fonts:** Font Awesome 6.4.0, Google Fonts (Space Mono, Inter)
+- **Tools:** GitHub Pages, Visual Studio Code
 
 ---
 
-## 🚧 Upcoming Projects
+## 🚧 Featured Projects
 
-- Predictive Maintenance Web App
-- Smart Inventory Management System
-- Maintenance Tracker Application
+
+- [EngiStore](https://engistore.onrender.com) – Smart Inventory & Asset Management System  
+- [HustleHub](https://hustlehub-7lk9.onrender.com) – Community Marketplace Web App  
+- [DailyDrift](https://yandisa.github.io/DailyDrift) – Eco-Friendly Online Store
 
 ---
 
